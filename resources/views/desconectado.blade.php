@@ -1,0 +1,1 @@
+<marquee direction="left"><h1>Voce foi desconectado</h1></marquee>
