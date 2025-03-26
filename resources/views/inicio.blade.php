@@ -51,6 +51,6 @@
     </div>
 
     <footer class="footer text-center fixed-bottom">
-      <p>&copy; 2023 Adote um Amigo. Todos os direitos reservados.</p>
+      <p>&copy; 2025 Adote um Amigo. Todos os direitos reservados.</p>
     </footer>
 @endsection
