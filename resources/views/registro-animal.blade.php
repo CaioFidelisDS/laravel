@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-md-6">
           <div class="register-container">
-            <h2 class="text-center">Registro</h2>
+            <h2 class="text-center">Registro Animal</h2>
             <form action="{{ route('registro-animal') }}" method="POST">
               @csrf
               <div class="mb-3">
